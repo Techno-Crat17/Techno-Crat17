@@ -23,10 +23,10 @@
 
 - **Information Science Engineering student** passionate about software development and building scalable applications.
 - Building full-stack web applications using **React, Node.js, Express, and MongoDB**.
-- Practicing **Data Structures & Algorithms** regularly for interviews and competitive programming.
+- Practicing **Data Structures & Algorithms** regularly for interviews.
 - Currently exploring **Backend Development, Django, SQL, and System Design**.
 - Interested in scalable systems, backend engineering, and AI-powered applications.
-- Goal: Become a skilled Software Engineer at a top product-based company.
+
 
 ---
 
