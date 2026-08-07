@@ -1,83 +1,125 @@
-# Hi there, I'm Techno-Crat17 👋
+# Hi, I'm Udbhav Verma
+### Aspiring Software Engineer | C++ | Full-Stack Web Developer | DSA Enthusiast
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=ff007f&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Data+Science+%26+Stock+Analytics+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=ff5e62&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Web+Developer;C%2B%2B+%26+DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Techno-Crat17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/udbhav-verma-3032b422a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:udbhavverma17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 💫 About Me
+## About Me
 
-I am a passionate software engineer specializing in building high-performance applications, algorithmic trading systems, and analytical tools. I love exploring new technologies, participating in hackathons, and solving complex algorithmic challenges.
-
-- 🔭 I’m currently working on building advanced trading analysis systems.
-- 🌱 I’m currently learning deeper quantitative finance and high-frequency trading models.
-- 👯 I’m looking to collaborate on open-source developer tooling and React/TypeScript web apps.
-- 💬 Ask me about **TypeScript**, **Python**, **C++**, and **Data Analytics**.
-- ⚡ Fun fact: I analyze market trends by day and code backend logic by night.
+- **Information Science Engineering student** passionate about software development and building scalable applications.
+- Building full-stack web applications using **React, Node.js, Express, and MongoDB**.
+- Practicing **Data Structures & Algorithms** regularly for interviews and competitive programming.
+- Currently exploring **Backend Development, Django, SQL, and System Design**.
+- Interested in **Open Source contributions**, scalable systems, and AI-powered applications.
+- Goal: Become a skilled Software Engineer at a top product-based company.
 
 ---
 
-### 🚀 Tech Stack & Tooling
+## Tech Stack
 
+### Languages & Core CS
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
-  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+### Backend & Databases
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Tools & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### 📈 Featured Projects
+## Featured Projects
 
-Here are some of the projects I've built and maintained:
-
-| Project | Stack | Description |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📊 **[Stock_Analyzer](https://github.com/Techno-Crat17/Stock_Analyzer)** | Jupyter, Python | Gives risk assessment for all stocks listed on Yahoo Finance. |
-| 🤝 **[GoogleHackathonBridge2Better](https://github.com/Techno-Crat17/GoogleHackathonBridge2Better)** | TypeScript, Node | Platform built for Google Hackathon to improve developer connectivity and bridging. |
-| 💹 **[project_trades](https://github.com/Techno-Crat17/project_trades)** | TypeScript | Algorithmic and execution framework for market trading. |
-| 💡 **[Leetcode](https://github.com/Techno-Crat17/Leetcode)** | C++ | A collection of optimized data structures and algorithms problem solving. |
+| **[Stock_Analyzer](https://github.com/Techno-Crat17/Stock_Analyzer)** | Quantitative risk assessment and analysis tool for stocks listed on Yahoo Finance. | `Python`, `Jupyter Notebook`, `Data Analytics` |
+| **[GoogleHackathonBridge2Better](https://github.com/Techno-Crat17/GoogleHackathonBridge2Better)** | Developer connectivity and collaboration platform built for the Google Hackathon. | `TypeScript`, `Node.js`, `API Integration` |
+| **[project_trades](https://github.com/Techno-Crat17/project_trades)** | Algorithmic trading system and execution framework for market analysis. | `TypeScript`, `Algorithmic Trading` |
+| **[AirlineManagementSystem](https://github.com/Techno-Crat17/AirlineManagementSystem)** | Comprehensive management system designed for airport and flight booking operations. | `Java`, `OOP`, `Database Management` |
+| **[expense-manager](https://github.com/Techno-Crat17/expense-manager)** | Full-stack personal finance and budget manager tracking expenses and metrics. | `JavaScript`, `Node.js`, `Express`, `MongoDB` |
+| **[Leetcode](https://github.com/Techno-Crat17/Leetcode)** | A collection of optimized data structures and algorithms (DSA) problem solutions. | `C++`, `Data Structures & Algorithms` |
 
 ---
 
-### 📊 GitHub Metrics & Trophies
+## Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Full-Stack Web Development patterns
+- Backend Engineering with Django
+- Relational Database & SQL Optimization
+- System Design & Software Architecture Fundamentals
+- Git & GitHub workflow best practices
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Techno-Crat17&theme=tokyonight&margin-w=15&margin-h=15" alt="Techno-Crat17's Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techno-Crat17/Techno-Crat17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techno-Crat17/Techno-Crat17/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Techno-Crat17/Techno-Crat17/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Techno-Crat17&show_icons=true&theme=tokyonight&rank_icon=github" alt="Techno-Crat17's Stats" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Crat17&layout=compact&theme=tokyonight" alt="Techno-Crat17's Top Languages" height="180" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Techno-Crat17&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/danielcranney/readme-generator">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techno-Crat17&theme=tokyonight" alt="Techno-Crat17's Streak" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Techno-Crat17&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Crat17&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techno-Crat17&theme=radical" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Techno-Crat17&color=ff007f&style=flat-square" alt="Visitor Counter" />
+  <b>"Code. Learn. Build. Repeat."</b><br>
+  <i>Always learning, always building, and always ready to collaborate on meaningful projects.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Techno-Crat17&color=ff5e62&style=flat-square" alt="Visitor Counter" />
 </p>
