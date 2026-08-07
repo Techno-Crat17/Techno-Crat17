@@ -100,18 +100,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Techno-Crat17&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techno-Crat17&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Crat17&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techno-Crat17&theme=radical" alt="GitHub Streak" height="180" />
-</p>
 
 ---
 
