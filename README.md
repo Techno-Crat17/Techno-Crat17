@@ -9,7 +9,7 @@
   <a href="https://github.com/Techno-Crat17" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/udbhav-verma-3032b422a/" target="_blank">
+  <a href="https://www.linkedin.com/in/udbhav-verma-4a875a2a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:udbhavverma17@gmail.com" target="_blank">
