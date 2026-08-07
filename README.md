@@ -2,7 +2,7 @@
 ### Aspiring Software Engineer | C++ | Full-Stack Web Developer | DSA Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=ff5e62&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Web+Developer;C%2B%2B+%26+DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=ff5e62&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Web+Developer;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 - Building full-stack web applications using **React, Node.js, Express, and MongoDB**.
 - Practicing **Data Structures & Algorithms** regularly for interviews and competitive programming.
 - Currently exploring **Backend Development, Django, SQL, and System Design**.
-- Interested in **Open Source contributions**, scalable systems, and AI-powered applications.
+- Interested in scalable systems, backend engineering, and AI-powered applications.
 - Goal: Become a skilled Software Engineer at a top product-based company.
 
 ---
